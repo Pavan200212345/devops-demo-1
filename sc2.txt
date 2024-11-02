@@ -1,2 +1,4 @@
 nothing is fun
+<<<<<<< HEAD
 nothing yeah is fun
+>>>>>>> debug
